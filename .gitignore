@@ -2,6 +2,8 @@
 
 # C extensions
 *.so
+*.cpp
+*.o
 
 # Packages
 *.egg
